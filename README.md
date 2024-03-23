@@ -6,4 +6,4 @@ Every year, the NCAA host a college basketball tournament called March Madness f
 
 The first part of my EDA was to determine which datasets I wanted to go in-depth with. I decided to ingest the Teams, Seasons, Tournament Seeds, Regular Season Results, and Tournament Results. My initial process was to take in this data to determine what particular statistics can determine a teams chances of winning over the other. I also wanted to drop particular columns that were unnecessary to the analysis.
 
-So after ingesting datasets and dropping unecessary columns, I decided to concatenate some dataframes to have a main dataset to run an analysis and EDA on.
+So after ingesting datasets and dropping unecessary columns, I decided to concatenate some dataframes to have a main dataset to run an analysis and EDA on. After finalizing the formation of the dataset, I ran a few EDA lines of code to determine how the distribution of columns and other variables will look.
